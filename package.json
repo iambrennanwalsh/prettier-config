@@ -1,0 +1,22 @@
+{
+	"name": "@iambrennanwalsh/prettier-config",
+	"version": "0.0.2",
+	"description": "Personal Prettier config of @iambrennanwalsh.",
+	"license": "MIT",
+	"repository": "github:@iambrennanwalsh/prettier-config",
+	"main": "index.js",
+	"author": {
+		"name": "Brennan Walsh",
+		"email": "mail@brennanwal.sh",
+		"url": "https://www.brennanwal.sh"
+	},
+	"keywords": [
+		"prettier"
+	],
+	"files": [
+		"index.js"
+	],
+	"publishConfig": {
+		"access": "public"
+	}
+}
