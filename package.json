@@ -1,6 +1,6 @@
 {
 	"name": "@iambrennanwalsh/prettier-config",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Personal Prettier config of @iambrennanwalsh.",
 	"license": "MIT",
 	"repository": "github:@iambrennanwalsh/prettier-config",

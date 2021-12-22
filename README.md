@@ -17,5 +17,3 @@ yarn add @iambrennanwalsh/prettier-config
 ```diff
 +  "prettier": "@iambrennanwalsh/prettier-config",
  ```
- 
-[Check out the `prettier` documentation for more info on sharing configurations](https://prettier.io/docs/en/configuration.html#sharing-configurations).
