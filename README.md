@@ -1,19 +1,23 @@
-# prettier-config
+# @iambrennanwalsh/prettier-config
 
 Personal Prettier configuration of @iambrennanwalsh.
 
 ## Usage
 
-1. Install the `@iambrennanwalsh/prettier-config` package using `npm` or `yarn`.
+1. Install the `prettier` and `@iambrennanwalsh/prettier-config` packages using
+   `npm`, `pnpm`, or `yarn`.
 
 ```sh
-npm install @iambrennanwalsh/prettier-config
-// or
-yarn add @iambrennanwalsh/prettier-config
+npm install prettier @iambrennanwalsh/prettier-config
 ```
 
-2. Within your `package.json`, set the `prettier` key  to `@iambrennanwalsh/prettier-config`
+2. Add `prettier: @iambrennanwalsh/prettier-config` to your package.json.
 
 ```diff
 +  "prettier": "@iambrennanwalsh/prettier-config",
- ```
+```
+
+## Learn More
+
+Visit the [Prettier Documentation](https://www.prettier.io) for a complete
+reference on integrating your project with Prettier.
